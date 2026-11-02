@@ -1,4 +1,4 @@
-# CSA02 Assignment 1 – Rural Electricity Co-operative Billing Program
+# CSA02  CO1 Assignment 1 – Rural Electricity Co-operative Billing Program
 
 ## Compiler Details
 - **Compiler:** GCC (GNU Compiler Collection)
