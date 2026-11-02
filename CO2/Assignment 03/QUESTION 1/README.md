@@ -1,0 +1,1 @@
+Q1 – Precedence, Associativity and Discount Calculation: Demonstrates how operator precedence and associativity affect arithmetic expressions and corrects errors in pharmacy discount and tax calculations.
